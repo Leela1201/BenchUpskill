@@ -1,0 +1,15 @@
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\bin\Debug\net6.0\BenchUpskilling.exe
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\bin\Debug\net6.0\BenchUpskilling.deps.json
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\bin\Debug\net6.0\BenchUpskilling.runtimeconfig.json
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\bin\Debug\net6.0\BenchUpskilling.dll
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\bin\Debug\net6.0\BenchUpskilling.pdb
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\obj\Debug\net6.0\BenchUpskilling.csproj.AssemblyReference.cache
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\obj\Debug\net6.0\BenchUpskilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\obj\Debug\net6.0\BenchUpskilling.AssemblyInfoInputs.cache
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\obj\Debug\net6.0\BenchUpskilling.AssemblyInfo.cs
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\obj\Debug\net6.0\BenchUpskilling.csproj.CoreCompileInputs.cache
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\obj\Debug\net6.0\BenchUpskilling.dll
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\obj\Debug\net6.0\refint\BenchUpskilling.dll
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\obj\Debug\net6.0\BenchUpskilling.pdb
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\obj\Debug\net6.0\BenchUpskilling.genruntimeconfig.cache
+C:\Users\Chandu\source\repos\BenchUpskilling\BenchUpskilling\obj\Debug\net6.0\ref\BenchUpskilling.dll
